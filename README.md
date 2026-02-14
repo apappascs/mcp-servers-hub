@@ -131,6 +131,7 @@ The list is automatically updated daily with the latest server information and G
 | **[Mcp (@grafbase)](<https://github.com/grafbase/grafbase/tree/main/crates/mcp>)** | Turn your GraphQL API into an efficient MCP server with schema intelligence in a single command. | ⭐ 1208 | 2026-02-08T09:55:25Z |
 | **[Mysql (@benborla)](<https://github.com/benborla/mcp-server-mysql>)** | MCP server for providing read-only access to MySQL databases, enabling schema inspection and query execution. | ⭐ 1196 | 2026-02-13T07:10:52Z |
 | **[Tavily Mcp (@tavily-ai)](<https://github.com/tavily-ai/tavily-mcp>)** | This server enables AI systems to integrate with Tavily's search and data extraction tools, providing real-time web information access and domain-specific searches. | ⭐ 1189 | 2026-02-13T11:06:52Z |
+| **[AgentPMT (@Apoth3osis-ai)](<https://github.com/Apoth3osis-ai/agentpmt-mcp-public>)** | AI agent marketplace for automated employees, workflows, skills, and tool orchestration. Remote MCP endpoint at https://api.agentpmt.com/mcp with Streamable HTTP transport. | ⭐ 0 | 2026-02-14T04:59:40Z |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
