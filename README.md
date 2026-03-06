@@ -131,6 +131,7 @@ The list is automatically updated daily with the latest server information and G
 | **[Qdrant (@qdrant)](<https://github.com/qdrant/mcp-server-qdrant>)** | This repository is an example of how to create a MCP server for Qdrant, a vector search engine. | ⭐ 1260 | 2026-03-05T05:01:49Z |
 | **[Terraform Server (@hashicorp)](<https://github.com/hashicorp/terraform-mcp-server>)** | Seamlessly integrate with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development powered by [Terraform](https://www.hashicorp.com/en/products/terraform) | ⭐ 1259 | 2026-03-05T08:17:09Z |
 | **[Web Eval Agent (@Operative-Sh)](<https://github.com/Operative-Sh/web-eval-agent>)** | An MCP server to test, debug, and fix web applications autonomously. | ⭐ 1238 | 2026-03-04T13:57:28Z |
+| **[GEOScore (@henu-wang)](<https://github.com/henu-wang/geoscore-mcp>)** | AI search optimization (GEO). Scan websites for AI search readiness, generate llms.txt, Schema.org fixes, and meta tag optimizations. | ⭐ 0 | 2026-03-05T00:16:08Z |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
