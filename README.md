@@ -131,7 +131,7 @@ The list is automatically updated daily with the latest server information and G
 | **[Mysql (@benborla)](<https://github.com/benborla/mcp-server-mysql>)** | MCP server for providing read-only access to MySQL databases, enabling schema inspection and query execution. | ⭐ 1299 | 2026-03-09T12:19:28Z |
 | **[Qdrant (@qdrant)](<https://github.com/qdrant/mcp-server-qdrant>)** | This repository is an example of how to create a MCP server for Qdrant, a vector search engine. | ⭐ 1269 | 2026-03-09T08:59:38Z |
 | **[Terraform Server (@hashicorp)](<https://github.com/hashicorp/terraform-mcp-server>)** | Seamlessly integrate with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development powered by [Terraform](https://www.hashicorp.com/en/products/terraform) | ⭐ 1265 | 2026-03-07T16:22:23Z |
-| **[Roundtable (@sinaneshat)](<https://github.com/sinaneshat/roundtable-dashboard>)** | Multi-model AI debate platform — GPT-4o, Claude, Gemini & 200+ models discuss your prompt, then a moderator synthesizes insight. MCP tools: `consult`, `review_code`, `debug`, `architect`, `plan_implementation`, `assess_tradeoffs`. | ⭐ 0 | 2026-03-10T12:00:00Z |
+| **[Roundtable (@sinaneshat)](<https://github.com/sinaneshat/roundtable-dashboard>)** | Multi-model AI debate platform — GPT-4o, Claude, Gemini & 200+ models discuss your prompt, then a moderator synthesizes insight. MCP tools: `consult_council`, `review_code`, `debug_issue`, `design_architecture`, `plan_implementation`, `assess_tradeoffs`. | ⭐ 0 | 2026-03-10T12:37:47Z |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
