@@ -132,6 +132,8 @@ The list is automatically updated daily with the latest server information and G
 | **[Qdrant (@qdrant)](<https://github.com/qdrant/mcp-server-qdrant>)** | This repository is an example of how to create a MCP server for Qdrant, a vector search engine. | ⭐ 1269 | 2026-03-09T08:59:38Z |
 | **[Terraform Server (@hashicorp)](<https://github.com/hashicorp/terraform-mcp-server>)** | Seamlessly integrate with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development powered by [Terraform](https://www.hashicorp.com/en/products/terraform) | ⭐ 1265 | 2026-03-07T16:22:23Z |
 
+| **[Roundtable (@deadpixel)](<https://github.com/deadpixel/roundtable-dashboard>)** | Multi-model AI debate platform — GPT-4o, Claude, Gemini & 200+ models discuss your prompt, then a moderator synthesizes insight. MCP tools: consult, review_code, debug, architect, plan_implementation, assess_tradeoffs. | - | 2026-03-10T00:00:00Z |
+
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
