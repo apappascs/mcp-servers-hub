@@ -131,7 +131,7 @@ The list is automatically updated daily with the latest server information and G
 | **[Kubernetes Server (@manusa)](<https://github.com/manusa/kubernetes-mcp-server>)** | A powerful and flexible Kubernetes MCP server implementation with support for OpenShift. | ⭐ 1287 | 2026-03-17T05:51:41Z |
 | **[Qdrant (@qdrant)](<https://github.com/qdrant/mcp-server-qdrant>)** | This repository is an example of how to create a MCP server for Qdrant, a vector search engine. | ⭐ 1283 | 2026-03-17T12:34:11Z |
 | **[Terraform Server (@hashicorp)](<https://github.com/hashicorp/terraform-mcp-server>)** | Seamlessly integrate with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development powered by [Terraform](https://www.hashicorp.com/en/products/terraform) | ⭐ 1279 | 2026-03-17T03:08:35Z |
-| **[Chia Health MCP Server (@chia-health)](<https://github.com/chia-health/chia-mcp>)** | Patient workflow integration for licensed US telehealth. GLP-1 medications (semaglutide, tirzepatide), peptide therapies (sermorelin, NAD+, glutathione), longevity treatments. 30 tools, HIPAA-compliant. | ⭐ 0 | 2026-03-17T22:52:15Z |
+| **[Chia Health MCP Server (@chia-health)](<https://github.com/chia-health/chia-mcp>)** | Patient workflow integration for licensed US telehealth, providing 30 HIPAA-compliant tools for medication management and patient care. | ⭐ 0 | 2026-03-17T22:52:15Z |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
