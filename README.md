@@ -131,6 +131,7 @@ The list is automatically updated daily with the latest server information and G
 | **[Imcp (@loopwork-ai)](<https://github.com/loopwork-ai/iMCP>)** | A macOS app that provides an MCP server for your iMessage, Reminders, and other Apple services. | ⭐ 1349 | 2026-04-03T04:29:43Z |
 | **[Qdrant (@qdrant)](<https://github.com/qdrant/mcp-server-qdrant>)** | This repository is an example of how to create a MCP server for Qdrant, a vector search engine. | ⭐ 1318 | 2026-04-03T03:35:00Z |
 | **[Gitlab Mcp (@zereight)](<https://github.com/zereight/gitlab-mcp>)** | gitlab mcp | ⭐ 1307 | 2026-04-03T10:22:32Z |
+| **[Nucleus MCP (@eidetic-works)](<https://github.com/eidetic-works/nucleus-mcp>)** | 114 MCP tools for persistent memory, execution verification, governance, and compliance. Local-first. | ⭐ 1 | 2026-04-03T10:19:04Z |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
