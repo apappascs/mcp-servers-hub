@@ -132,6 +132,8 @@ The list is automatically updated daily with the latest server information and G
 | **[Graphlit Server (@graphlit)](<https://github.com/graphlit/graphlit-mcp-server>)** | The Model Context Protocol (MCP) Server enables integration between MCP clients and the Graphlit service. Ingest anything from Slack to Gmail to podcast feeds, in addition to web crawling, into a Graphlit project - and then retrieve relevant contents from the MCP client. | ⭐ 374 | 2026-04-13T21:35:09Z |
 | **[Xcode Server (@r-huijts)](<https://github.com/r-huijts/xcode-mcp-server>)** | Bridges Claude AI with Xcode, enabling AI-powered code assistance, project management, and automated development tasks securely on your local machine. | ⭐ 372 | 2026-04-22T22:19:09Z |
 
+| **[Steelmind MCP (@stabgan)](<https://github.com/stabgan/steelmind-mcp>)** | Research-grounded structured thinking and steel-manning verification for AI agents. Two tools (think + verify) with sequential step tracking. Backed by 43+ papers. | ⭐ 0 | 2026-03-28T00:00:00Z |
+| **[OpenRouter Multimodal (@stabgan)](<https://github.com/stabgan/openrouter-mcp-multimodal>)** | OpenRouter MCP server with native vision, image generation, and 300+ LLM access. Text chat, image analysis, model search, free model support. | ⭐ 19 | 2026-03-28T00:00:00Z |
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
