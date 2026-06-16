@@ -132,6 +132,8 @@ The list is automatically updated daily with the latest server information and G
 | **[Bing Search (@microsoft)](<https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-bing-search>)** | Search the web using Bing services. | N/A | None |
 | **[Bing Searches Mcp (@seanivore)](<https://github.com/seanivore/bing-searches-mcp>)** | Integrates with Bing Search API to collect, parse, and analyze search data. | N/A | None |
 
+| **[Steelmind MCP (@stabgan)](<https://github.com/stabgan/steelmind-mcp>)** | Research-grounded structured thinking and steel-manning verification for AI agents. Two tools (think + verify) with sequential step tracking. Backed by 43+ papers. | ⭐ 0 | 2026-03-28T00:00:00Z |
+| **[OpenRouter Multimodal (@stabgan)](<https://github.com/stabgan/openrouter-mcp-multimodal>)** | OpenRouter MCP server with native vision, image generation, and 300+ LLM access. Text chat, image analysis, model search, free model support. | ⭐ 19 | 2026-03-28T00:00:00Z |
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
