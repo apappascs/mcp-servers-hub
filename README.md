@@ -131,6 +131,7 @@ The list is automatically updated daily with the latest server information and G
 | **[Binary Reader Mcp (@berlinbra)](<https://github.com/berlinbra/binary-reader-mcp>)** | Analyzes Unreal Engine asset files and generic binary structures, enabling metadata extraction and file format inspection for game development and digital forensics. | N/A | None |
 | **[Bing Search (@microsoft)](<https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-bing-search>)** | Search the web using Bing services. | N/A | None |
 | **[Bing Searches Mcp (@seanivore)](<https://github.com/seanivore/bing-searches-mcp>)** | Integrates with Bing Search API to collect, parse, and analyze search data. | N/A | None |
+| **[VibeKit (@609NFT)](<https://github.com/609NFT/vibekit-mcp>)** | Build, deploy, and manage hosted full-stack apps — each with a live URL and database — and chat with their per-app AI agents, via the VibeKit REST API. | N/A | None |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
