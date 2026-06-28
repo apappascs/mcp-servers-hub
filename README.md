@@ -42,7 +42,6 @@ The list is automatically updated daily with the latest server information and G
 | **[Adamik Server (@AdamikHQ)](<https://github.com/AdamikHQ/adamik-mcp-server>)** | Integrates with the Adamik API to enable blockchain operations and custom AI functionalities via Starknet, supporting secure API key management and efficient request handling. | N/A | None |
 | **[Advanced Homeassistant Mcp (@jango-blockchained)](<https://github.com/jango-blockchained/advanced-homeassistant-mcp>)** | Integrates Home Assistant with language models to enable natural language control and querying of smart home devices. | N/A | None |
 | **[Agenda (@alexgoller)](<https://github.com/alexgoller/mcp-server-agenda>)** | Integrates with Agenda note-taking app on macOS to enable creating notes, managing projects, and opening existing notes using x-callback-urls. | N/A | None |
-| **[Agent Config (@@event4u)](<https://github.com/@event4u/agent-config>)** | Record an engineering-memory signal â a short, anchored observation such as a recurring bug pattern or an ownership note â to the monthly intake log `agents/memory/intake/signals-YYYY-MM.jsonl`. Use to capture a learning tied to a specific file so future `memory_lookup` calls surface it. Appends to the filesystem and is rate-limited per `(type, path)` within a rolling window. Returns the recorded signal. | N/A | None |
 | **[Agent Toolkit (@stripe)](<https://github.com/stripe/agent-toolkit>)** | Integrates with Stripe's API to enable payment processing, customer management, and financial operations for e-commerce and billing workflows. | N/A | None |
 | **[Agentcare Mcp (@Kartha-AI)](<https://github.com/Kartha-AI/agentcare-mcp>)** | Integrates with FHIR-enabled EMR systems to provide healthcare tools for patient data retrieval, medical research integration, and AI-assisted clinical analysis. | N/A | None |
 | **[Ai Agents Pg (@vignesh-codes)](<https://github.com/vignesh-codes/ai-agents-mcp-pg>)** | Provides secure read-only access to PostgreSQL databases for executing SQL queries and retrieving schema information. | N/A | None |
@@ -131,6 +130,7 @@ The list is automatically updated daily with the latest server information and G
 | **[Binance Server (@qeinfinity)](<https://github.com/qeinfinity/binance-mcp-server>)** | Integrates with Binance to provide real-time cryptocurrency market data streaming for spot and futures markets, enabling automated trading strategies and financial analysis. | N/A | None |
 | **[Binary Reader Mcp (@berlinbra)](<https://github.com/berlinbra/binary-reader-mcp>)** | Analyzes Unreal Engine asset files and generic binary structures, enabling metadata extraction and file format inspection for game development and digital forensics. | N/A | None |
 | **[Bing Search (@microsoft)](<https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-bing-search>)** | Search the web using Bing services. | N/A | None |
+| **[Bing Searches Mcp (@seanivore)](<https://github.com/seanivore/bing-searches-mcp>)** | Integrates with Bing Search API to collect, parse, and analyze search data. | N/A | None |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
