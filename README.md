@@ -31,7 +31,6 @@ The list is automatically updated daily with the latest server information and G
 ## MCP Servers
 | MCP Server | Description | Stars | Last Updated |
 |--------------|-------------|-------|--------------|
-| **['show me the pnl if i had used a wider stop'. (@Counterfactual replay: same as replay_window plus a strategy-name filter and required param_overrides. Use for 'what if EMA period was 50 instead of 21' )](<https://github.com/Counterfactual replay: same as replay_window plus a strategy-name filter and required param_overrides. Use for 'what if EMA period was 50 instead of 21' / 'show me the PnL if I had used a wider stop'.>)** | Counterfactual replay: same as replay_window plus a strategy-name filter and required param_overrides. Use for 'what if EMA period was 50 instead of 21' / 'show me the PnL if I had used a wider stop'. | N/A | None |
 | **[0latency (@0latency-ai)](<https://github.com/0latency-ai/0latency>)** | Persistent memory layer for AI agents with sub-100ms recall, semantic search, and knowledge graphs. | N/A | None |
 | **[19hz (@pipeworx-io)](<https://github.com/pipeworx-io/mcp-19hz>)** | Bay Area underground electronic music events from 19hz.info via the Pipeworx MCP gateway. | N/A | None |
 | **[1claw Mcp (@1clawai)](<https://github.com/1clawai/1claw-mcp>)** | HSM-backed vault for AI agent secrets with just-in-time credential fetching and prompt injection scanning. | N/A | None |
@@ -131,6 +130,7 @@ The list is automatically updated daily with the latest server information and G
 | **[Code Context Provider Mcp (@ab498)](<https://github.com/ab498/code-context-provider-mcp>)** | Analyzes project directories to extract code structure and symbols using Tree-sitter parsers, providing tools for generating directory trees and performing deep code analysis of JavaScript, TypeScript, and Python files. | N/A | None |
 | **[Code Executor Mcp (@aberemia24)](<https://github.com/aberemia24/code-executor-mcp>)** | Secure sandboxed TypeScript/Python execution with Docker isolation and token-efficient wrapper generation | N/A | None |
 | **[Codesavant (@twolven)](<https://github.com/twolven/mcp-codesavant>)** | CodeSavant is an MCP server that enables AI assistants to manipulate, execute, and version control code in a controlled environment. | N/A | 2024-12-31T07:01:28Z |
+| **[Codex Keeper (@aindreyway)](<https://github.com/aindreyway/mcp-codex-keeper>)** | An intelligent MCP server that provides AI assistants with access to curated documentation and best practices. | N/A | 2024-12-31T07:08:46Z |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
