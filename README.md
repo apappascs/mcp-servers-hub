@@ -131,6 +131,7 @@ The list is automatically updated daily with the latest server information and G
 | **[Code Executor Mcp (@aberemia24)](<https://github.com/aberemia24/code-executor-mcp>)** | Secure sandboxed TypeScript/Python execution with Docker isolation and token-efficient wrapper generation | N/A | None |
 | **[Codesavant (@twolven)](<https://github.com/twolven/mcp-codesavant>)** | CodeSavant is an MCP server that enables AI assistants to manipulate, execute, and version control code in a controlled environment. | N/A | 2024-12-31T07:01:28Z |
 | **[Codex Keeper (@aindreyway)](<https://github.com/aindreyway/mcp-codex-keeper>)** | An intelligent MCP server that provides AI assistants with access to curated documentation and best practices. | N/A | 2024-12-31T07:08:46Z |
+| [context-kit](https://github.com/JDDavenport/context-kit) | Zero-dependency MCP resource server exposing Personal Context Artifacts (pca-wiki, pca-mental-models, pca-voice, pca-protocols) to Claude Desktop and any MCP client | 2 | 2025-07 |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
