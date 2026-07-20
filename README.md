@@ -132,6 +132,8 @@ The list is automatically updated daily with the latest server information and G
 | **[Babashka Server (@bmorphism)](<https://github.com/bmorphism/babashka-mcp-server>)** | Enables execution and management of Babashka scripts using the Model Context Protocol, offering features like caching, command history access, and configurable timeouts for enhanced scripting workflows. | N/A | None |
 | **[Basic Test (@gbti-network)](<https://github.com/gbti-network/mcp-basic-test>)** | A Node.js-based MCP server implementing JSON-RPC 2.0, allowing users to generate random US State and signature soup combinations through a fun and simple tool. | N/A | None |
 
+| **[Steelmind MCP (@stabgan)](<https://github.com/stabgan/steelmind-mcp>)** | Research-grounded structured thinking and steel-manning verification for AI agents. Two tools (think + verify) with sequential step tracking. Backed by 43+ papers. | ⭐ 0 | 2026-03-28T00:00:00Z |
+| **[OpenRouter Multimodal (@stabgan)](<https://github.com/stabgan/openrouter-mcp-multimodal>)** | OpenRouter MCP server with native vision, image generation, and 300+ LLM access. Text chat, image analysis, model search, free model support. | ⭐ 19 | 2026-03-28T00:00:00Z |
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
