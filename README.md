@@ -132,6 +132,8 @@ The list is automatically updated daily with the latest server information and G
 | **[Codex Keeper (@aindreyway)](<https://github.com/aindreyway/mcp-codex-keeper>)** | An intelligent MCP server that provides AI assistants with access to curated documentation and best practices. | N/A | 2024-12-31T07:08:46Z |
 | **[Cognee (@topoteretes)](<https://github.com/topoteretes/cognee>)** | Cognee implements modular pipelines for scalable AI data layer operations, including vector and graph storage for conversational, document, and transcription analysis. | N/A | 2024-12-31T06:51:33Z |
 
+| **[Steelmind MCP (@stabgan)](<https://github.com/stabgan/steelmind-mcp>)** | Research-grounded structured thinking and steel-manning verification for AI agents. Two tools (think + verify) with sequential step tracking. Backed by 43+ papers. | ⭐ 0 | 2026-03-28T00:00:00Z |
+| **[OpenRouter Multimodal (@stabgan)](<https://github.com/stabgan/openrouter-mcp-multimodal>)** | OpenRouter MCP server with native vision, image generation, and 300+ LLM access. Text chat, image analysis, model search, free model support. | ⭐ 19 | 2026-03-28T00:00:00Z |
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
