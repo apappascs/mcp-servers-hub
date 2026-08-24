@@ -131,6 +131,7 @@ The list is automatically updated daily with the latest server information and G
 | **[Cognee (@topoteretes)](<https://github.com/topoteretes/cognee>)** | Cognee implements modular pipelines for scalable AI data layer operations, including vector and graph storage for conversational, document, and transcription analysis. | N/A | 2024-12-31T06:51:33Z |
 | **[Coincap Mcp (@QuantGeekDev)](<https://github.com/QuantGeekDev/coincap-mcp>)** | This server allows querying cryptocurrency information from Coincap's public API without requiring API keys or registration. | N/A | 2024-12-31T07:00:00Z |
 | **[Coinmarket Server (@anjor)](<https://github.com/anjor/coinmarket-mcp-server>)** | Coinmarket MCP server is an implementation of a service offering Coinmarket API endpoints for cryptocurrency data, along with custom tools for data extraction like currency listings and token quotes. | N/A | 2024-12-31T06:47:46Z |
+| **[Google Flights Mcp (@mtnrabi)](<https://github.com/mtnrabi/google-flights-mcp>)** | Real-time Google Flights fares — one call searches a whole date range and multiple destination airports, each result carrying Google's own price-insight verdict. Bring your own RapidAPI key. | N/A | None |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
