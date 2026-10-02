@@ -31,6 +31,7 @@ The list is automatically updated daily with the latest server information and G
 ## MCP Servers
 | MCP Server | Description | Stars | Last Updated |
 |--------------|-------------|-------|--------------|
+| **[, package.json, pyproject.toml, and more for well Formedness and self Consistency. (@Ensure repository configs are structurally valid before merging. Validates .github)](<https://github.com/Ensure repository configs are structurally valid before merging. Validates .github/, package.json, pyproject.toml, and more for well-formedness and self-consistency.>)** | Validate repository configuration files (experimental). When to use: as a pre-merge check that .github/, package.json, pyproject.toml, etc. are well-formed and self-consistent. When NOT to use: for compliance vs an external standard (use delimit_repo_config_audit) or full repo analysis (delimit_repo_analyze). Sibling contrast: delimit_repo_config_audit reports policy compliance; this checks structural validity. Side effects: read-only on the resolved local path. Accepts local path, "owner/repo" shorthand, or GitHub URL â remote inputs are shallow-cloned into a tempdir. Calls backends.repo_bridge.config_validate via _run_repo_tool_with_remote. | N/A | None |
 | **[3d Printer Server (@DMontgomery40)](<https://github.com/DMontgomery40/mcp-3D-printer-server>)** | Integrates with multiple 3D printer management systems to enable remote control, file handling, and advanced STL manipulation for automated print job management and custom model modifications. | N/A | None |
 | **[Abap Abap Adt Api (@mario-andreschak)](<https://github.com/mario-andreschak/mcp-abap-abap-adt-api>)** | Integrates ABAP Development Tools API to enable automated code reviews, intelligent transport management, and AI-assisted ABAP development. | N/A | None |
 | **[Abap Adt (@mario-andreschak)](<https://github.com/mario-andreschak/mcp-abap-adt>)** | Integrates with SAP ABAP systems via ADT, enabling AI models to perform ABAP development tasks like code generation and system analysis. | N/A | None |
@@ -130,7 +131,6 @@ The list is automatically updated daily with the latest server information and G
 | **[Binance Server (@qeinfinity)](<https://github.com/qeinfinity/binance-mcp-server>)** | Integrates with Binance to provide real-time cryptocurrency market data streaming for spot and futures markets, enabling automated trading strategies and financial analysis. | N/A | None |
 | **[Binary Reader Mcp (@berlinbra)](<https://github.com/berlinbra/binary-reader-mcp>)** | Analyzes Unreal Engine asset files and generic binary structures, enabling metadata extraction and file format inspection for game development and digital forensics. | N/A | None |
 | **[Bing Search (@microsoft)](<https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-bing-search>)** | Search the web using Bing services. | N/A | None |
-| **[Bing Searches Mcp (@seanivore)](<https://github.com/seanivore/bing-searches-mcp>)** | Integrates with Bing Search API to collect, parse, and analyze search data. | N/A | None |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
