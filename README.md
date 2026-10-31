@@ -131,6 +131,7 @@ The list is automatically updated daily with the latest server information and G
 | **[Binary Reader Mcp (@berlinbra)](<https://github.com/berlinbra/binary-reader-mcp>)** | Analyzes Unreal Engine asset files and generic binary structures, enabling metadata extraction and file format inspection for game development and digital forensics. | N/A | None |
 | **[Bing Search (@microsoft)](<https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-bing-search>)** | Search the web using Bing services. | N/A | None |
 | **[Bing Searches Mcp (@seanivore)](<https://github.com/seanivore/bing-searches-mcp>)** | Integrates with Bing Search API to collect, parse, and analyze search data. | N/A | None |
+| **[GetMattered (@getmattered)](<https://github.com/getmattered/getmattered-mcp>)** | Job matching, ATS resume scoring, job-description analysis, interview prep, editable resume drafts, and tailored resumes and cover letters. Applies across 34 hiring systems, with account creation, email verification, optional review and approval, application tracking and employer confirmation. Hosted MCP with 23 tools over Streamable HTTP and OAuth 2.1. [Setup](https://getmattered.com/mcps). | 2 | 2026-10-10 |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
