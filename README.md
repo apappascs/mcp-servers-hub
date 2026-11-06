@@ -132,6 +132,8 @@ The list is automatically updated daily with the latest server information and G
 | **[Binary Reader Mcp (@berlinbra)](<https://github.com/berlinbra/binary-reader-mcp>)** | Analyzes Unreal Engine asset files and generic binary structures, enabling metadata extraction and file format inspection for game development and digital forensics. | N/A | None |
 | **[Bing Search (@microsoft)](<https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-bing-search>)** | Search the web using Bing services. | N/A | None |
 
+| **[JobsPipe (@jobspipe)](<https://github.com/jobspipe/mcp>)** | Hosted MCP for searching live, normalized job postings from 30+ ATS feeds and job boards. Endpoint `https://mcp.jobspipe.dev/mcp`; docs at https://docs.jobspipe.dev/ai-agents/mcp. | N/A | None |
+
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
