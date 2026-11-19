@@ -132,6 +132,8 @@ The list is automatically updated daily with the latest server information and G
 | **[Bc Mcp (@vanachterjacob)](<https://github.com/vanachterjacob/BC-MCP>)** | Provides standardized development rules and real-time guidance for Business Central projects, offering rule validation, architectural suggestions, and component structure optimization for consistent coding standards and best practices. | N/A | None |
 | **[Bear (@jkawamoto)](<https://github.com/jkawamoto/mcp-bear>)** | Facilitates interaction with Bear note-taking software, allowing users to perform actions like opening notes, creating notes, and searching through Bear's X-callback-url Scheme. | N/A | None |
 
+| **[JobsPipe (@jobspipe)](<https://github.com/jobspipe/mcp>)** | Hosted MCP for searching live, normalized job postings from 30+ ATS feeds and job boards. Endpoint `https://mcp.jobspipe.dev/mcp`; docs at https://docs.jobspipe.dev/ai-agents/mcp. | N/A | None |
+
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
