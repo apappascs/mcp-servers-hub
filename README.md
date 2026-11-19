@@ -131,6 +131,7 @@ The list is automatically updated daily with the latest server information and G
 | **[Batchit (@ryanjoachim)](<https://github.com/ryanjoachim/mcp-batchit>)** | Combine tool calls into a single batch_execute call. | N/A | None |
 | **[Bc Mcp (@vanachterjacob)](<https://github.com/vanachterjacob/BC-MCP>)** | Provides standardized development rules and real-time guidance for Business Central projects, offering rule validation, architectural suggestions, and component structure optimization for consistent coding standards and best practices. | N/A | None |
 | **[Bear (@jkawamoto)](<https://github.com/jkawamoto/mcp-bear>)** | Facilitates interaction with Bear note-taking software, allowing users to perform actions like opening notes, creating notes, and searching through Bear's X-callback-url Scheme. | N/A | None |
+| **[GetMattered (@getmattered)](<https://github.com/getmattered/getmattered-mcp>)** | Job matching, ATS resume scoring, job-description analysis, interview prep, editable resume drafts, and tailored resumes and cover letters. Applies across 30+ hiring systems, with account creation, email verification, optional review and approval, application tracking and employer confirmation. Hosted MCP with 41 tools over Streamable HTTP and OAuth 2.1. [Setup](https://getmattered.com/mcps). | 2 | 2026-10-10 |
 
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
