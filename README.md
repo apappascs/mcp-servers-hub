@@ -132,6 +132,8 @@ The list is automatically updated daily with the latest server information and G
 | **[Bc Mcp (@vanachterjacob)](<https://github.com/vanachterjacob/BC-MCP>)** | Provides standardized development rules and real-time guidance for Business Central projects, offering rule validation, architectural suggestions, and component structure optimization for consistent coding standards and best practices. | N/A | None |
 | **[Bear (@jkawamoto)](<https://github.com/jkawamoto/mcp-bear>)** | Facilitates interaction with Bear note-taking software, allowing users to perform actions like opening notes, creating notes, and searching through Bear's X-callback-url Scheme. | N/A | None |
 
+| **[Steelmind MCP (@stabgan)](<https://github.com/stabgan/steelmind-mcp>)** | Research-grounded structured thinking and steel-manning verification for AI agents. Two tools (think + verify) with sequential step tracking. Backed by 43+ papers. | ⭐ 0 | 2026-03-28T00:00:00Z |
+| **[OpenRouter Multimodal (@stabgan)](<https://github.com/stabgan/openrouter-mcp-multimodal>)** | OpenRouter MCP server with native vision, image generation, and 300+ LLM access. Text chat, image analysis, model search, free model support. | ⭐ 19 | 2026-03-28T00:00:00Z |
 ## Community
 * [Reddit r/mcp](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
